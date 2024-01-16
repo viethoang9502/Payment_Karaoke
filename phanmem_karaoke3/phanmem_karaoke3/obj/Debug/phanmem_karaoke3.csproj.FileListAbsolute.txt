@@ -1,0 +1,126 @@
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe.config
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.pdb
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Form1.resources
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Properties.Resources.resources
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.GenerateResource.Cache
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.CoreCompileInputs.cache
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.exe
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.pdb
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Doan.resources
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Beer.resources
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Traicay.resources
+C:\Users\thuongq\source\repos\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csprojResolveAssemblyReference.cache
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe.config
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.exe
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.pdb
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.pdb
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csprojResolveAssemblyReference.cache
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Beer.resources
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Doan.resources
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Drink.resources
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Form1.resources
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Properties.Resources.resources
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Traicay.resources
+D:\Code\winform\phanmem_karaoke3 - Copy\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.GenerateResource.Cache
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Beer.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Bill.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Doan.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Drink.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Form1.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.kndb.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Properties.Resources.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Traicay.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.GenerateResource.Cache
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe.config
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.pdb
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.exe
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.pdb
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.dangnhap.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\stdole.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\ShockwaveFlashObjects.dll
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Form2.resources
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csprojAssemblyReference.cache
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.CoreCompileInputs.cache
+D:\Code\winform\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.CopyComplete
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe.config
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.pdb
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\FlashControlV71.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\ShockwaveFlashObjects.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\stdole.dll
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csprojAssemblyReference.cache
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Beer.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Bill.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.dangnhap.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Doan.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Drink.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Form1.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Form2.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.kndb.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Properties.Resources.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Traicay.resources
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.GenerateResource.cache
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.CoreCompileInputs.cache
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.CopyComplete
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.exe
+E:\Phần mềm học tập\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.pdb
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe.config
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.exe
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\phanmem_karaoke3.pdb
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\bin\Debug\stdole.dll
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.AssemblyReference.cache
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Beer.resources
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Bill.resources
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.dangnhap.resources
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Doan.resources
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Drink.resources
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Form1.resources
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.kndb.resources
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Properties.Resources.resources
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.Traicay.resources
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.GenerateResource.cache
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.CoreCompileInputs.cache
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.csproj.CopyComplete
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.exe
+C:\Users\vovie\Downloads\phanmem_karaoke3\phanmem_karaoke3\phanmem_karaoke3\obj\Debug\phanmem_karaoke3.pdb
